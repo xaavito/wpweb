@@ -2,7 +2,6 @@ const qrcode = require('qrcode-terminal');
 const { Client, MessageMedia } = require('whatsapp-web.js');
 const client = new Client(); //inicializamos una nueva instancia de conexion
 
-
 //este metodo nos genera el codigo qr para crear la session de nuestro whatsapp bot
 client.on('qr', (qr) => {
   qrcode.generate(qr, { small: true });
@@ -29,21 +28,24 @@ client.on('ready', () => {
 
   // Number where you want to send the message.
   //const number = '+5491135141794'; //Herni
-  const number = '+5491165166583'; //Maty L
+  //const number = '+5491165166583'; //Maty L
+  const number = '+5491161199714'; //Tato
 
   // Your message.
-  const text = 'Usted es un ser del bien!!!';
+  //const text = 'Usted es un ser del bien!!!';
+  const text = 'Por votar mal!!!!!';
 
   // Getting chatId from the number.
   // we have to delete "+" from the beginning and add "@c.us" at the end of the number.
   const chatId = number.substring(1) + '@c.us';
 
   // Sending message.
-  for (let index = 0; index < 5; index++) {
+  const media = MessageMedia.fromFilePath('./images/Milei_telam_01_port.jpg');
+  //const media = MessageMedia.fromFilePath('./images/prime.jpeg');n
+  for (let index = 0; index < 20; index++) {
     client.sendMessage(chatId, text);
+    client.sendMessage(chatId, media);
   }
-  const media = MessageMedia.fromFilePath('./images/prime.jpeg');
-  client.sendMessage(chatId, media);
 });
 
 client.initialize();
