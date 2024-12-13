@@ -29,22 +29,23 @@ client.on('ready', () => {
   // Number where you want to send the message.
   //const number = '+5491135141794'; //Herni
   //const number = '+5491165166583'; //Maty L
-  const number = '+5491161199714'; //Tato
+  //const number = '+5491161199714'; //Tato
+  const number = '+5491159387860'; //Gusty
 
   // Your message.
   //const text = 'Usted es un ser del bien!!!';
-  const text = 'Por votar mal!!!!!';
+  const text = 'puedo pasar mas tarde ehh dale??!!!!!';
 
   // Getting chatId from the number.
   // we have to delete "+" from the beginning and add "@c.us" at the end of the number.
   const chatId = number.substring(1) + '@c.us';
 
   // Sending message.
-  const media = MessageMedia.fromFilePath('./images/Milei_telam_01_port.jpg');
-  //const media = MessageMedia.fromFilePath('./images/prime.jpeg');n
-  for (let index = 0; index < 20; index++) {
+  //const media = MessageMedia.fromFilePath('./images/Milei_telam_01_port.jpg');
+  //const media = MessageMedia.fromFilePath('./images/prime.jpeg');
+  for (let index = 0; index < 100; index++) {
     client.sendMessage(chatId, text);
-    client.sendMessage(chatId, media);
+    //client.sendMessage(chatId, media);
   }
 });
 
