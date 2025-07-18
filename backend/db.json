@@ -44,7 +44,41 @@
       "tipo": "log",
       "status": "QR_RECEIVED",
       "qr": "2@dvRBmNKWrQ8aWF/Cn+KrfPlPHdxFnTrup87qlWwsU6hdqv4hDiQumE8e/gSO0ZiIKEZQm/zpUg9GIfc/bYaexYmQI9TbegW+g3w=,J9BwY7cC8W7bJUMTjQuv5jn5R95IQ7EhOy5Q3uan3XY=,4twdALBt0HjSdJU1bWkiUYsxbs5pOoOFx5tX4UHTwxQ=,F/+13vAST//2PRUejsacVvg4S94XwnGj0mIhG1DXDQ0=,1",
-      "date": "2025-07-18T22:07:10.964Z"
+      "date": "2025-07-18T22:07:10.964Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "Cliente Inicializado",
+      "date": "2025-07-18T22:31:06.305Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "QR_RECEIVED",
+      "qr": "2@15NQwH8p0NF3RWrE4rCVSDbCm3xnbbTqgjCVfdiaCfMctqHfGpBShBFFBduuPjMbcBLL0UgC+3ThoWflNfAWOij2xKzc8iOEzmA=,HF+0a9MdL9oX72dEyPWxGWZ+aTr04kyihMiWq7EZtHM=,hYiDyanIuL2Bzrm+sbVSMUPqEWzn5jX/cmsMWtpk5kU=,T02XQCRdgU+W2KDQPvh/n+Dhl2CELNEO+qMXecIG44k=,1",
+      "date": "2025-07-18T22:31:12.315Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "QR_RECEIVED",
+      "qr": "2@jdpNj0rwT5w2DCBgxRzK1Mn14IljP/mP86kzAHbO60ZRG9dVGSZ3R5RwKxSFZoWWhv3q/YLTomurn7znBkGhLk+gQ8acI3hYjhQ=,HF+0a9MdL9oX72dEyPWxGWZ+aTr04kyihMiWq7EZtHM=,hYiDyanIuL2Bzrm+sbVSMUPqEWzn5jX/cmsMWtpk5kU=,T02XQCRdgU+W2KDQPvh/n+Dhl2CELNEO+qMXecIG44k=,1",
+      "date": "2025-07-18T22:32:12.202Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "Cliente Inicializado",
+      "date": "2025-07-18T22:34:00.232Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "QR_RECEIVED",
+      "qr": "2@scisuP9trMWBCHa+J0hCOuZa8vOvuhchAeJadbdHwZWHHIn5lGyRmjmz6wlbL917eXgqFzyEtEP4H1Xwhjd3QxMgEuyGQDwzCwA=,/WA8ds9rEOQvlLXdL9bbidB2RRVsiVokgdh91tVYojg=,5gclC33f7pINnII/Bm2je+NXXabXAhA7kiYqS5TmexU=,xyfcT2oEpBdeOXltrRlGaaqAlz46sbtRK475Bo7wLkk=,1",
+      "date": "2025-07-18T22:34:05.854Z",
+      "ejecutado": true
     }
   ]
 }
