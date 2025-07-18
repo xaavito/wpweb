@@ -1,0 +1,50 @@
+{
+  "comandos": [
+    {
+      "tipo": "log",
+      "status": "Cliente Inicializado",
+      "date": "2025-07-18T22:01:04.582Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "QR_RECEIVED",
+      "qr": "2@Lii3vFMQ0zltAKafrCY2loLSuuC7W0z3BtNPmwKVnMx7pvFyk8aACANx01PGXBmwpb2aMQzWJb2OEGcX6qYfEv5RkHbNtpcU1IA=,I/D8fheRS0CX6ZKSVSXf/qfRCNjj3xdpPl5cAtnhJQk=,AadCrwZd6ZLMf6eXWjxkLISY/G8juWbbYtMYve4lSkQ=,pS9oiWieo90Vr10WRiZOAsqr0h89UAXbvIcGEWWokQU=,1",
+      "date": "2025-07-18T22:01:10.440Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "QR_RECEIVED",
+      "qr": "2@jSOUq+7l3gMktb0q/0MDjPXJKwwSUTWLVznjZJhRX6e47KLwglNh9lwSqAEp3ZmFAOeQYilAJq4Oa/TrDTD7zT/ppCbIZnrNGIg=,I/D8fheRS0CX6ZKSVSXf/qfRCNjj3xdpPl5cAtnhJQk=,AadCrwZd6ZLMf6eXWjxkLISY/G8juWbbYtMYve4lSkQ=,pS9oiWieo90Vr10WRiZOAsqr0h89UAXbvIcGEWWokQU=,1",
+      "date": "2025-07-18T22:02:10.323Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "QR_RECEIVED",
+      "qr": "2@Q3vajHud4tUN7YtAVs2qqLoem0PR2sBHPMzvinQ0qiZxsJeX5Wsx7QVRpAhm1CDbYo8ijTtxU7EV+09utn/unjDkk/NrpG7ASBg=,I/D8fheRS0CX6ZKSVSXf/qfRCNjj3xdpPl5cAtnhJQk=,AadCrwZd6ZLMf6eXWjxkLISY/G8juWbbYtMYve4lSkQ=,pS9oiWieo90Vr10WRiZOAsqr0h89UAXbvIcGEWWokQU=,1",
+      "date": "2025-07-18T22:02:30.332Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "Cliente Inicializado",
+      "date": "2025-07-18T22:06:05.265Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "QR_RECEIVED",
+      "qr": "2@Tc5/vI/pqN8ol/FZbiW3z/4KoQlTk9yrZ1wjeax9DLXqWgTlrwd1ECFtd3tOomf80PcdJfwpG2SZlOJfkb1IoWs49xIVzYBDDNs=,J9BwY7cC8W7bJUMTjQuv5jn5R95IQ7EhOy5Q3uan3XY=,4twdALBt0HjSdJU1bWkiUYsxbs5pOoOFx5tX4UHTwxQ=,F/+13vAST//2PRUejsacVvg4S94XwnGj0mIhG1DXDQ0=,1",
+      "date": "2025-07-18T22:06:11.103Z",
+      "ejecutado": true
+    },
+    {
+      "tipo": "log",
+      "status": "QR_RECEIVED",
+      "qr": "2@dvRBmNKWrQ8aWF/Cn+KrfPlPHdxFnTrup87qlWwsU6hdqv4hDiQumE8e/gSO0ZiIKEZQm/zpUg9GIfc/bYaexYmQI9TbegW+g3w=,J9BwY7cC8W7bJUMTjQuv5jn5R95IQ7EhOy5Q3uan3XY=,4twdALBt0HjSdJU1bWkiUYsxbs5pOoOFx5tX4UHTwxQ=,F/+13vAST//2PRUejsacVvg4S94XwnGj0mIhG1DXDQ0=,1",
+      "date": "2025-07-18T22:07:10.964Z"
+    }
+  ]
+}
